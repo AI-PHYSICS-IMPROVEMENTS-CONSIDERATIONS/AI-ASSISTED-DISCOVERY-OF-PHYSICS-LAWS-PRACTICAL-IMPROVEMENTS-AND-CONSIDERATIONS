@@ -3,7 +3,7 @@
 ## How To Use
 Notebook Path: `./main.ipynb`
 - Contains documentation and code
-- *Recommended*: Run in Google Colab on the GPU-powered server, which has all the necessary libraries installed
+- *Recommended*: Run in Google Colab on the T4-GPU-powered server, which has all the necessary libraries installed
   - [Here](https://colab.research.google.com/drive/1csJsHGzou9a-Loy9jC4-OyhB1P12Z2rQ?usp=sharing) is a link to the Colab for your convenience
 
 Results Path: `./results.pdf`
