@@ -8,5 +8,5 @@
 ## Results Path: `./results.pdf`
 - Includes the results of the effect-of-noise and adaptive-vs-constant-alpha testing
 - All data was originally collected in [this Google Sheet](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?usp=sharing), from which the PDF was exported
-  - Raw data can be found in the "[alpha](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=0#gid=0)" and "[noise](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=344099043#gid=344099043)" sheets
-  - Aggregation/analysis of that data can be found in the "[alpha_analysis](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=146546834#gid=146546834)" and "[noise_analysis](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=1500867377#gid=1500867377)" sheets
+  - Raw data can be found in the "[noise](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=344099043#gid=344099043)" and "[alpha](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=0#gid=0)" sheets
+  - Aggregation/analysis of that data can be found in the and "[noise_analysis](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=1500867377#gid=1500867377)" and "[alpha_analysis](https://docs.google.com/spreadsheets/d/1t9HqzVDHinJkV29-46H7Hvq82RXtvIA1s53FudI60SY/edit?gid=146546834#gid=146546834)" sheets
